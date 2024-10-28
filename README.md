@@ -1,7 +1,6 @@
-# Hi there 👋 It's me HARIRAJAN M
+# Hi there 👋 It's me GIRIVASAN MV
 
- **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-<img align="right" width="330" height="290" src="https://ignitepotential.com/wp-content/uploads/2021/02/Quote3-1024x1024.jpg">                                               
+ **Passionate software enthusiast with a strong foundation in programming and problem-solving.**                                             
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Data Science.
 - 💬 Ask me about: Tech

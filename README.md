@@ -7,3 +7,4 @@
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Code explorer.
 - ![LeetCode Stats](https://leetcode.panchajanya.dev/GIRIVASAN_MV?theme=dark&font=KoHo)
+- ![girivasan24's Stats](https://github-readme-stats.vercel.app/api?username=girivasan24&theme=radical&show_icons=true&hide_border=true&count_private=true)

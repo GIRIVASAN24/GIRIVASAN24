@@ -1,7 +1,7 @@
 # Hi there 👋 It's me GIRIVASAN MV
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**                                             
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on Data Science.
 - 💬 Ask me about: Tech
 - 😄 Pronouns: Techie
